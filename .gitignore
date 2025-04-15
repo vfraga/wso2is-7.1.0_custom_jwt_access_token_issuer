@@ -1,0 +1,83 @@
+# ===============================
+# Java
+# ===============================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# ===============================
+# Maven
+# ===============================
+
+# Maven target directory
+target/
+
+# Maven specific temporary files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# ===============================
+# Eclipse
+# ===============================
+
+# Eclipse workspace settings
+.metadata/
+
+# Eclipse project-specific settings
+.classpath
+.project
+.settings/
+
+# Eclipse build output directories
+bin/
+tmp/
+
+# Eclipse temporary files
+*.tmp
+*.bak
+*.swp
+
+# ===============================
+# IntelliJ IDEA
+# ===============================
+
+# IntelliJ project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IntelliJ build output
+out/
+
+# ===============================
+# Operating System Files
+# ===============================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
